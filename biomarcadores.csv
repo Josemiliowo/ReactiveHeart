@@ -1,0 +1,8 @@
+Nombre, Enfermedades, ValorES, ValorEI
+Interleucina_6,Artritis.Lupus.Diabetes.Cancer,0,5.780
+Proteina_C_Reactiva,Obesidad.Diabetes.Procesos infecciosos,0,2
+TNF_Alfa,Cancer.Infecciones, 0,1.18
+Troponina_I,Ataque Cardiaco.Daño Muscular Corazón,0,5
+Troponina_Cardiaca,Ataque Cardiaco.Daño Muscular Corazón,0,5
+NT_proANP,Miocardiopatía.Mortalidad Cardiovascular,0,25
+Troponina_T,Infarto miocárdico.Sepsis,0,5
