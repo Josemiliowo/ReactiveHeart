@@ -1,6 +1,3 @@
-estudio
-biomarcador
-utils
 datetime
 matplotlib
 csv
